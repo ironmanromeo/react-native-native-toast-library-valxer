@@ -1,7 +1,8 @@
 {
   "name": "react-native-native-toast-library-valxer",
   "version": "1.0.1",
-  "description": "",
+  "homepage": "https://github.com/ironmanromeo/react-native-native-toast-library-valxer",
+  "description": "Here description",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,8 +10,8 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "Romeo Mariani",
+  "license" : "BSD-3-Clause",
   "devDependencies": {
     "react-native": "0.41.2"
   },
